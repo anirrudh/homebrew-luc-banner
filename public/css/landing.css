@@ -1,8 +1,9 @@
 h1 {
   text-align: center;
   font-family: 'Barlow Semi Condensed', sans-serif;
-  font-size: 45px;
+  font-size: 72px;
   height: 100%;
+  margin: 0;
 }
 
 
@@ -40,3 +41,11 @@ h1 {
         color: #cb4b16;
         /*transition: background-image 0.8s ease-in-out; */
     }
+.luc_colors {
+        background-color: #A30042;
+        color: #eeb111;
+}
+.classic_terminal {
+    background-color: #000000;
+    color: #33FF33;
+}

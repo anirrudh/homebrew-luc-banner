@@ -1,33 +1,15 @@
 <% include partials/links %>
 <script type="text/javascript" src="js/typed.min.js"></script>
+<script type="text/javascript" src="js/splash.js"></script>
 <link rel="stylesheet" type="text/css" href="css/landing.css" />
 </head>
-<body style = "margin:0">
+<body>
     <h1>
 <div id="fun">
 <div class="container">
 		<span id="typed"></span>
 	<script>
-		var x = 0;
-		var typed = new Typed("#typed", {
-			strings: ["~/.homebrew@LUC"],
-			loop: true,
-			typeSpeed: 80,
-			backDelay: 4000,
-			backSpeed: 100,
-			preStringTyped: function() { 
-				x++
-				console.log(x)
-				if (x % 2 == 0) {
-				document.getElementById('fun').classList.remove("solarized_dark");
-				document.getElementById('fun').classList.add("solarized_light");
-				}
-				else {
-				document.getElementById('fun').classList.remove("solarized_light");
-				document.getElementById('fun').classList.add("solarized_dark");
-				}
-			}
-		});
+		type();
 	</script>
 </h1>
 </div>
