@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 45px;
+  height: 100%;
+}
+
+
+.typed-cursor {
+  opacity: 1;
+  animation: blink 0.5s;
+}
+
+@Keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+ .container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.solarized_light {
+        background-color:  #fdf6e3;
+        color: #b58900;
+        /*transition: background-image 0.8s ease-in-out;*/
+    }
+.solarized_dark {
+        background-color: #073642;
+        color: #cb4b16;
+        /*transition: background-image 0.8s ease-in-out; */
+    }
