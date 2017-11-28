@@ -1,18 +1,7 @@
+Hi, this is the offical banner that will play for homebrew@LUC events. The code is very hack-y, and not my best work. 
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+As of November 28th, 2017, the application has been deployed via heroku and is hosted at: 
 
-
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||| https://stormy-meadow-38285.herokuapp.com/ |||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
